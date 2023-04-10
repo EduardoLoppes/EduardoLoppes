@@ -1,4 +1,4 @@
-## Bem vindo! Eu sou Jefferson Passerini.
+## Bem vindo! Eu sou Eduardo Lopes.
 
 - 🔭 Técnico em Analise e Desenvolvimento de Sistemas AMS pela ETEC-Jales.
 - 🎯 Atualmente cursando Analise e Desenvolvimento de Sistemas AMS 1/2.
@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://github.com/EduardoLoppes">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=jeffersonarpasserini&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=EduardoLoppes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoLoppes&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
